@@ -1,5 +1,3 @@
-package com.softserve.edu09.hw.task01;
-
 import java.util.*;
 
 public class App {//Ok
